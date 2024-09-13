@@ -1,6 +1,6 @@
 # datafun-03-analytics
 
-## Create Project Virtual Environment
+## Create Project Virtual Environment for Project 3
 
 On Windows, create a project virtual environment in the .venv folder. 
 
